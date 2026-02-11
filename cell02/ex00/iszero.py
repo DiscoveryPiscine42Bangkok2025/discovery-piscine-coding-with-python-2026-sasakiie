@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 num = int(input ("Enter a number: ").strip())
 if num == 0:
     print("This number is equal to zero.")
