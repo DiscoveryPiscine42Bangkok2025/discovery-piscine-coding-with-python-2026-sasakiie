@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 def average(x):
     total = sum(x.values())   
     count = len(x)            

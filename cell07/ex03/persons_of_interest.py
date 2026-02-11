@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 def famous_births(p):
     sort = sorted(p.values(), key=lambda x: x["date_of_birth"])
     for person in sort:
